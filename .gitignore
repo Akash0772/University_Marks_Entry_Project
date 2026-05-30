@@ -1,0 +1,19 @@
+# ==========================================
+# Maarks Entry Project - Global GitIgnore
+# ==========================================
+
+# 1. Backend (Spring Boot) Ignored Files
+backend/target/
+backend/.idea/
+backend/*.jar
+
+# 2. Frontend (React/Vite) Ignored Files
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.production
+frontend/.env.local
+
+# 3. System Files
+.DS_Store
+Thumbs.db
