@@ -36,7 +36,7 @@
 
 ### Backend
 - Java 21
-- Spring Boot 4
+- Spring Boot
 - Spring Security + JWT
 - MySQL 8
 - Maven
